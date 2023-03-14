@@ -62,8 +62,8 @@ input {
 }
 .buttons {
   position: absolute;
-  bottom: -150%;
-  left: 55%;
+  left: 50%;
+  top: 75%;
   width: 65%;
   transform: translate(-57%, 0);
   display: flex;
